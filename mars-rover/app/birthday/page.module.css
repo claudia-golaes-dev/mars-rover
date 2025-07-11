@@ -1,0 +1,24 @@
+.item{
+    flex: 1;
+    margin: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:2rem;
+
+}
+
+.description{
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.textContainer{
+    display: flex;
+    gap:10rem;
+}
+
+.h1{
+    text-align: center;
+}
