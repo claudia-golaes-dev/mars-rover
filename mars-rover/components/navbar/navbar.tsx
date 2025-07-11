@@ -1,7 +1,5 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import photos from './assets/photos.json'
-import { promises as fs } from 'fs';
 import Link from 'next/link'
 import React from 'react'
 

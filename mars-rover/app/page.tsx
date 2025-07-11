@@ -1,10 +1,6 @@
-
 import Image from "next/image";
 import styles from "./page.module.css";
-import Link from 'next/link'
 import mars from '../public/mars.png';
-import { motion } from "motion/react";
-import { ReactNebula } from "@flodlc/nebula";
 import Button from "@/components/button/button"
 
 export default async function Page() {

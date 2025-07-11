@@ -1,5 +1,5 @@
-import type { Metadata } from "next";
-import {Rock_3D, Geist, Geist_Mono, Poppins, Roboto} from "next/font/google";
+import type {Metadata} from "next";
+import {Geist, Geist_Mono, Poppins, Roboto, Rock_3D} from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/navbar/navbar";
 import Footer from "@/components/footer/footer";

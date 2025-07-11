@@ -1,10 +1,6 @@
-import Image from "next/image";
 import styles from "./page.module.css";
-import photos from './assets/photos.json'
-import { promises as fs } from 'fs';
-import Link from 'next/link'
 import React from 'react'
-import { FaFacebook, FaLinkedin, FaInstagram } from 'react-icons/fa';
+import {FaFacebook, FaInstagram, FaLinkedin} from 'react-icons/fa';
 
 export default async function Footer() {
     return (
